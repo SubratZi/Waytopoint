@@ -13,4 +13,3 @@ class Response(BaseModel):
     confidence: float
     best: Recommendation | None
     alternatives: list[Recommendation] = []
-
