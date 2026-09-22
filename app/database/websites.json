@@ -14,5 +14,6 @@
 
     {"name": "draw.io", "url":"https://app.diagrams.net", "categories": ["diagramming"], "tags": ["diagram", "flowchart", "uml", "draw"], "description": "Free, full featured diagram editor.", "quality": 0.9, "free": true},
     {"name": "Excalidraw", "url": "https://excalidraw.com", "categories": ["diagramming"], "tags": ["whiteboard", "draw", "diagram", "sketch"], "description": "Hand-drawn style whiteboard", "quality": 0.85 ,"free":true},
-    {"name":"Mermaid Live", "url": "https://mermaid.live", "categories": ["diagramming"], "tags": ["diagram", "flowchart","uml","draw"], "description": "Team diagramming, limited free tier.", "quality": 0.75, "free": false}
+    {"name":"Mermaid Live", "url": "https://mermaid.live", "categories": ["diagramming"], "tags": ["diagram", "flowchart","uml","code"], "description": "Diagrams from text", "quality": 0.8, "free": true},
+    {"name": "Lucidchart", "url": "https://www.lucidchart.com", "categories": ["diagramming"], "tags":["diagram", "flowchart", "uml", "draw"], "description":"Team Diagramming, limited free tier.", "quality": 0.75, "free":false}
 ]
