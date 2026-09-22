@@ -1,0 +1,18 @@
+{
+    "pdf-tools": {
+        "label": "PDF tools",
+        "keywords": ["pdf","compress","merge","split","ocr"]
+    },
+    "image-editing":{
+        "label": "Image editing",
+        "keywords": ["photo", "image", "edit", "resize", "crop", "background", "compress", "remove", "retouch"]
+    },
+    "ai-assistants":{
+        "label": "AI assistants",
+        "keywords": ["ai", "chatgpt", "chat", "assistant", "llm", "claude", "gemini"]
+    },
+    "diagramming":{
+        "label": "Diagramming",
+        "keywords": ["diagram", "flowchart", "uml", "draw", "whiteboard", "mindmap"]
+    }
+}
