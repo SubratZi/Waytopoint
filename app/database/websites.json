@@ -1,0 +1,18 @@
+[
+    {"name": "ilovePDF", "url": "https://www.ilovepdf.com", "categories": ["pdf-tools"], "tags":["pdf","compress","merge","split","convert", "edit"], "description": "All-in-one PDF toolkit.", "quality":0.9, "free": true},
+    {"name":"PDF24 Tools", "url": "https://tools.pdf24.org", "categories": ["pdf-tools"], "tags": ["pdf", "compress", "merge", "split","ocr", "convert"], "description": "Free, no-limit PDF tools.", "quality": 0.85, "free": true},
+    {"name": "Smallpdf", "url":"https://smallpdf.com", "categories": ["pdf-tools"], "tags": ["pdf", "compress", "merge", "split", "edit"], "description": "Polished PDF tools with daily free limits.", "quality":0.85, "free":false},
+
+    {"name": "Photopea", "url": "https://www.photopea.com","categories": ["image-editing"], "tags": ["photo", "image", "edit", "crop", "resize", "retouch", "layer"], "description": "Photoshop-style editor in the browser.", "quality":0.9, "free": true},
+    {"name": "remove.bg", "url": "https://www.remove.bg", "categories": ["image-editing"], "tags": ["background", "remove", "photo", "image"], "description":"One-click background removal.", "quality": 0.85, "free": true},
+    {"name": "Squoosh", "url":"https://squoosh.app", "categories": ["image-editing"], "tags": ["image", "compress", "resize"], "description": "Image compression by Google Chrome Labs.", "quality": 0.85, "free": true },
+    {"name": "Canva", "url": "https://www.canva.com", "categories": ["image-editing"], "tags": ["image", "photo","edit", "design", "background", "remove"], "description": "Design and photo editing with templates.", "quality":0.8, "free":false},
+
+    {"name": "ChatGPT", "url": "https://chatgpt.com", "categories": ["ai-assistants"], "tags": ["ai","chat","chatgpt", "assistant","llm"], "description":"OpenAI's assistant.", "quality": 0.9, "free": true},
+    {"name": "Claude", "url": "https://claude.ai", "categories":["ai-assistants"],"tags": ["ai","chat", "claude", "assistant", "llm"], "description": "Anthropic's assistant.", "quality": 0.85, "free": true},
+    {"name": "Gemini", "url": "https://gemini.google.com", "categories": ["ai-assistants"], "tags": ["ai", "chat", "gemini", "assistant", "llm"], "description":"Google's assistant.", "quality": 0.85, "free": true},
+
+    {"name": "draw.io", "url":"https://app.diagrams.net", "categories": ["diagramming"], "tags": ["diagram", "flowchart", "uml", "draw"], "description": "Free, full featured diagram editor.", "quality": 0.9, "free": true},
+    {"name": "Excalidraw", "url": "https://excalidraw.com", "categories": ["diagramming"], "tags": ["whiteboard", "draw", "diagram", "sketch"], "description": "Hand-drawn style whiteboard", "quality": 0.85 ,"free":true},
+    {"name":"Mermaid Live", "url": "https://mermaid.live", "categories": ["diagramming"], "tags": ["diagram", "flowchart","uml","draw"], "description": "Team diagramming, limited free tier.", "quality": 0.75, "free": false}
+]
